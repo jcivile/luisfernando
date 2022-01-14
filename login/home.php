@@ -1,22 +1,15 @@
-<?php require_once 'templates/header.php';?>
-	<div class="content">
-     	<div class="container">
-     		<div class="col-md-8 col-sm-8 col-xs-12">
-     			<div class="well text-center">
-	     			<p>Sonríe cada vez que pueda.</p>
-					<p>No porque la vida ha sido fácil o perfecta,</p>
-					<p>o exactamente como se había previsto,</p>
-					<p>sino porque decidiste ser feliz</p>
-					<p>y agradecido por todas las cosas buenas que tienes</p>
-					<p>y todos los problemas que usted sabe que no tiene.</p>
-     			</div>
-     			<br>
-     			
-     			
-     		</div>
-     		<?php require_once 'templates/sidebar.php';?>
-     		
-     	</div>
-    </div> <!-- /container -->
-<?php require_once 'templates/footer.php';?>
-	
+
+
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>home</title>
+</head>
+<body>
+<h1>BIENVENIDOS</h1>
+    
+</body>
+</html>
